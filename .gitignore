@@ -2,4 +2,5 @@
 tts
 *.vscode
 __pycache__
-
+*.ipynb
+test.ipynb
