@@ -1,0 +1,5 @@
+*.wav
+tts
+*.vscode
+__pycache__
+
